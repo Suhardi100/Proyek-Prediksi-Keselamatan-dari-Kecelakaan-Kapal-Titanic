@@ -169,18 +169,19 @@ Pernyataan solusi pada proyek ini bermanfaat untuk menjadi suatu referensi dalam
 
 # Lampiran Frekuensi Data Setiap Kolom
 1. Visualisasi frekuensi pada kolom "Survived"
+   ![image alt](https://github.com/Suhardi100/Proyek-Prediksi-Keselamatan-dari-Kecelakaan-Kapal-Titanic/blob/0e8e1eae3497f79455ba3dd502185d6e64504510/Hasil%20Visualisasi_Frekuensi%20Survived.png)
    ![Hasil Visualisasi_Frekuensi Survived](https://github.com/user-attachments/assets/fb75a7d1-c0dc-49c2-aac9-a8b5a32c8617)
-2. Visualisasi frekuensi pada kolom "PClass"
+3. Visualisasi frekuensi pada kolom "PClass"
    ![Hasil Visualisasi_Frekuensi PClass](https://github.com/user-attachments/assets/a0714e3c-5c40-4c07-8163-93c23c73a3b0)
-3. Visualisasi frekuensi pada kolom "Sex"
+4. Visualisasi frekuensi pada kolom "Sex"
    ![Hasil Visualisasi_Frekuensi Sex](https://github.com/user-attachments/assets/c171e094-d5e8-4558-bffa-c789fb66ea57)
-4. Visualisasi frekuensi pada kolom "Age"
+5. Visualisasi frekuensi pada kolom "Age"
    ![Hasil Visualisasi_Frekuensi Age](https://github.com/user-attachments/assets/c4fa59e7-8732-4680-9824-5e4ec14906eb)
-5. Visualisasi frekuensi pada kolom "SibSp"
+6. Visualisasi frekuensi pada kolom "SibSp"
    ![Hasil Visualisasi_Frekuensi SibSp](https://github.com/user-attachments/assets/6d5d9857-f59a-469b-bc18-9033261905f1) 
-6. Visualisasi frekuensi pada kolom "Parch"
+7. Visualisasi frekuensi pada kolom "Parch"
     ![Hasil Visualisasi_Frekuensi Parch](https://github.com/user-attachments/assets/70764204-3d05-40d1-b03c-e4b00325e9e0)
-7. Visualisasi frekuensi pada kolom "Fare"
+8. Visualisasi frekuensi pada kolom "Fare"
     ![Hasil Visualisasi_Frekuensi Fare](https://github.com/user-attachments/assets/d23f8a59-e418-47b3-9dbd-01ff71be8b75)
-8. Visualisasi frekuensi pada kolom "Cabin"
+9. Visualisasi frekuensi pada kolom "Cabin"
     ![Hasil Visualisasi_Frekuensi Cabin](https://github.com/user-attachments/assets/f607e145-ee38-43d3-bb05-53176ac0ffbc)
