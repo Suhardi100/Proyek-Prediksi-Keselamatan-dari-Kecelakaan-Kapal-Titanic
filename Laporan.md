@@ -152,7 +152,7 @@ Pernyataan solusi pada proyek ini bermanfaat untuk menjadi suatu referensi dalam
 - Accuracy merupakan matrik yang mengukur seberapa sering model menghasilkan prediksi yang benar. Cara kerjanya Akurasi dihitung dengan membandingkan hasil prediksi model dengan label asli data. Semakin tinggi nilai akurasi, semakin baik model dalam memprediksi dengan benar. Formula pada matrik accuracy adalah prediksi yang tepat dibagi dengan jumlah data.
 - Confussion matrix merupakan matrik yang digunakan untuk mendeteksi bagaimana model mengklasifikasikan data ke dalam kelas-kelas yang benar dan salah. Cara kerjanya memberikan gambaran yang lebih rinci tentang kesalahan yang dilakukan model, termasuk jenis kesalahan (false positives dan false negatives). Ini membantu kita untuk memahami apakah model cenderung membuat lebih banyak prediksi positif yang salah atau negatif yang salah. Formula dari matrik ini menghitung jumlah true positif dan negatif serta false positif dan negatif.
 
-# Tabel Evaluasi Model
+### Tabel Evaluasi Model
 | Model  | Akurasi | TP | TN | FP | FN | Kesimpulan |
 | ------------- | ------------- |------------- | ------------- |------------- | ------------- |------------- |
 | K-NN (K-Nearest Neighboor)  | 0,82  | 52 | 95 | 22 | 10 | Tingkat akurasinya sudah sesuai target yang ditentukan |
