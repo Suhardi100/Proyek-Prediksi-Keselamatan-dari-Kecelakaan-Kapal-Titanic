@@ -169,18 +169,18 @@ Pernyataan solusi pada proyek ini bermanfaat untuk menjadi suatu referensi dalam
 
 # Lampiran Frekuensi Data Setiap Kolom
 1. Visualisasi frekuensi pada kolom "Survived"
-   ![image alt](https://github.com/Suhardi100/Proyek-Prediksi-Keselamatan-dari-Kecelakaan-Kapal-Titanic/blob/0e8e1eae3497f79455ba3dd502185d6e64504510/Hasil%20Visualisasi_Frekuensi%20Survived.png)
+   ![image alt](https://github.com/Suhardi100/Proyek-Prediksi-Keselamatan-dari-Kecelakaan-Kapal-Titanic/blob/main/Hasil%20Visualisasi_Frekuensi%20Survived.png?raw=true)
 3. Visualisasi frekuensi pada kolom "PClass"
-   ![image alt](https://github.com/Suhardi100/Proyek-Prediksi-Keselamatan-dari-Kecelakaan-Kapal-Titanic/blob/f5f06e5007de1898c2143b2ac1c7f385414d8184/Hasil%20Visualisasi_Frekuensi%20PClass.png)
+   ![image alt](https://github.com/Suhardi100/Proyek-Prediksi-Keselamatan-dari-Kecelakaan-Kapal-Titanic/blob/main/Hasil%20Visualisasi_Frekuensi%20PClass.png?raw=true)
 4. Visualisasi frekuensi pada kolom "Sex"
    ![image alt](https://github.com/Suhardi100/Proyek-Prediksi-Keselamatan-dari-Kecelakaan-Kapal-Titanic/blob/main/Hasil%20Visualisasi_Frekuensi%20Sex.png?raw=true)
 5. Visualisasi frekuensi pada kolom "Age"
-   ![image alt](https://github.com/Suhardi100/Proyek-Prediksi-Keselamatan-dari-Kecelakaan-Kapal-Titanic/blob/f5f06e5007de1898c2143b2ac1c7f385414d8184/Hasil%20Visualisasi_Frekuensi%20Age.png)
+   ![image alt](https://github.com/Suhardi100/Proyek-Prediksi-Keselamatan-dari-Kecelakaan-Kapal-Titanic/blob/main/Hasil%20Visualisasi_Frekuensi%20Age.png?raw=true)
 6. Visualisasi frekuensi pada kolom "SibSp"
-   ![image alt](https://github.com/Suhardi100/Proyek-Prediksi-Keselamatan-dari-Kecelakaan-Kapal-Titanic/blob/f5f06e5007de1898c2143b2ac1c7f385414d8184/Hasil%20Visualisasi_Frekuensi%20SibSp.png)
+   ![image alt](https://github.com/Suhardi100/Proyek-Prediksi-Keselamatan-dari-Kecelakaan-Kapal-Titanic/blob/main/Hasil%20Visualisasi_Frekuensi%20SibSp.png?raw=true)
 7. Visualisasi frekuensi pada kolom "Parch"
-   ![image alt](https://github.com/Suhardi100/Proyek-Prediksi-Keselamatan-dari-Kecelakaan-Kapal-Titanic/blob/f5f06e5007de1898c2143b2ac1c7f385414d8184/Hasil%20Visualisasi_Frekuensi%20Parch.png)
+   ![image alt](https://github.com/Suhardi100/Proyek-Prediksi-Keselamatan-dari-Kecelakaan-Kapal-Titanic/blob/main/Hasil%20Visualisasi_Frekuensi%20Parch.png?raw=true)
 8. Visualisasi frekuensi pada kolom "Fare"
-   ![image alt](https://github.com/Suhardi100/Proyek-Prediksi-Keselamatan-dari-Kecelakaan-Kapal-Titanic/blob/f5f06e5007de1898c2143b2ac1c7f385414d8184/Hasil%20Visualisasi_Frekuensi%20Fare.png)
+   ![image alt](https://github.com/Suhardi100/Proyek-Prediksi-Keselamatan-dari-Kecelakaan-Kapal-Titanic/blob/main/Hasil%20Visualisasi_Frekuensi%20Fare.png?raw=true)
 9. Visualisasi frekuensi pada kolom "Cabin"
-   ![image alt](https://github.com/Suhardi100/Proyek-Prediksi-Keselamatan-dari-Kecelakaan-Kapal-Titanic/blob/f5f06e5007de1898c2143b2ac1c7f385414d8184/Hasil%20Visualisasi_Frekuensi%20Cabin.png)
+   ![image alt](https://github.com/Suhardi100/Proyek-Prediksi-Keselamatan-dari-Kecelakaan-Kapal-Titanic/blob/main/Hasil%20Visualisasi_Frekuensi%20Cabin.png?raw=true)
